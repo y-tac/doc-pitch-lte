@@ -29,9 +29,9 @@
 ### 今までと比べてどうなった？
 最大速度（ベストエフォート）を見てみよう
 - 3G(WCMA) 下り14.4Mbps,上り5.76Mbps
-- 4G(LTE)  下り150Mbps,上り50Mbps
-- ４G CA対応端末 下り262.5Mbps
-- ４G ３CC CA対応端末 下り 682Mbps 
+- LTE 下り150Mbps,上り50Mbps
+- LTE-CA対応端末) 下り262.5Mbps
+- LTE-３CC-CA対応端末 下り 682Mbps 
 ---
 ### LTEのネットワーク構成！
 構成図を貼る
