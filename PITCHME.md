@@ -34,7 +34,7 @@
 - LTE-３CC-CA対応端末 下り 682Mbps 
 ---
 ### LTEのネットワーク構成！
-構成図を貼る
+![alt](network.svg)
 - eNB
 - MME
 ---
