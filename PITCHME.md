@@ -38,16 +38,24 @@
 - eNB（eNode B）
  - アンテナと繋がってるいわゆる基地局
  - 端末と直接通信して、制御や中継を担う
+---
+### LTEのネットワーク構成！
+![alt](network.svg)
 - MME（Mobility Management Entity）
  - 端末制御（c-plane）を担当
  - 端末の位置登録や、呼出、基地局間ハンドオーバなど制御を担う
 ---
-構成図を貼る
+### LTEのネットワーク構成！
 ![alt](network.svg)
-- S-GW（） 
+- S-GW（Serving gateway） 
  - ユーザーパケット管理（u-plane）を担当
  - ここまでキャリアの設備 
-- P-GW（こっからMVNOとか個別の設備
+---
+### LTEのネットワーク構成！
+![alt](network.svg)
+- P-GW(Packet Data Network Gateway)
+ - インターネットとの接続を担当
+ - こっからMVNOとかの個別の設備
 ---
 ### 携帯電話の電源ON！
 - 報知情報のお話（MIB,SIB)
